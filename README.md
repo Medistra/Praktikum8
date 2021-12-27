@@ -4,6 +4,7 @@
 
 ## Buat codingan seperti berikut
 
+```python
 from os import system
 class mahasiswa:
     nim=""
@@ -103,6 +104,7 @@ def pilih1():
         ulang=input("Apakah Anda Ingin Mengulang (Y/T)? ")
 menu()
 
+```
 
 ## berikut hasil codingannya
 
